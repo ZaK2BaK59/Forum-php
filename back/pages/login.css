@@ -1,0 +1,53 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.cool {
+    text-align: center;
+}
+
+a {
+    color: rgb(143, 142, 142);
+
+}
+
+.head {
+    text-align: center;
+}
+
+.logout {
+    background-position: right;
+}
+
+.index {
+    background-position: right;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    /* Ajustez la largeur maximale selon vos besoins */
+    margin: auto;
+    /* Pour centrer le formulaire horizontalement */
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input,
+textarea,
+select {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+}
+
+.btn {
+    width: 60%;
+}

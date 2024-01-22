@@ -1,0 +1,28 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.cool {
+    text-align: center;
+}
+
+a {
+    color: rgb(143, 142, 142);
+
+}
+
+.head {
+    text-align: center;
+}
+
+.logout {
+    background-position: right;
+}
+
+.admin {
+    background-position: right;
+}
